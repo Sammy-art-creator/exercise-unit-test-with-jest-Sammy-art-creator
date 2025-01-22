@@ -37,4 +37,4 @@ const fromDollarToPound = function(valueInYen) {
 
 
 console.log(fromEuroToDollar(3.5));
-module.exports = { sum, fromEuroToDollar, fromDollarToYen, fromDollarToPound  };
+module.exports = { sum, fromEuroToDollar  };
